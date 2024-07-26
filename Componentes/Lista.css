@@ -1,0 +1,15 @@
+.Lista{
+  width: 400px;
+  background-color: var(--azul);
+}
+
+
+.Lista__Item{
+  padding: 12px;
+  border-bottom: solid 1px var(--VerdeClaro);
+}
+
+
+.lista__Texto{}
+
+.lista__icono{}

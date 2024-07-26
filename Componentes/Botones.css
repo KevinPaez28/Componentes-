@@ -1,0 +1,150 @@
+.Boton{
+  background-color: blueviolet;
+  color: aliceblue;
+  border: solid 1px blueviolet;
+  border-radius: 5px;
+  padding: 12px;
+  margin: 0 auto;
+  display: inline-flex;
+  text-decoration: none;
+  align-items: center;
+  gap: 10px;
+  justify-content: space-evenly;
+  font-size:16px;
+  font-weight: 300;
+  color: #fff;
+  cursor: pointer;
+  transition: 1s all;
+
+}
+.Boton:hover{
+  background-color: #fff;
+  color:blueviolet;
+  border: solid 1px blueviolet;
+}
+.boton--borde{
+  border: solid 1px blueviolet;
+  background-color: #fff;
+  color: blueviolet;
+}
+.boton--borde:hover{
+  background-color: blueviolet;
+  border:solid 1px #fff;
+  color:rgb(255, 255, 255);
+  
+}
+
+/*.Boton__texto{
+  color: #fff;
+
+}
+.Boton__icono{
+
+  color: #fff;
+}*/
+
+.Boton1{
+background-color: var(--amarillo);
+  color: aliceblue;
+  border: solid 1px var(--amarillo);
+  border-radius: 5px;
+  padding: 12px;
+  margin: 0 auto;
+  display: inline;
+  text-decoration: none;
+  align-items: center;
+  gap: 10px;
+  justify-content: space-evenly;
+  font-size:16px;
+  font-weight: 300;
+  color: #fff;
+  cursor: pointer;
+
+
+}
+.Boton1:hover{
+  background-color: #fff;
+  color:var(--amarillo);
+  border: solid 1px var(--amarillo);
+
+}
+.boton--Pastel{
+  border: solid 1px var(--amarillo);
+  background-color: #fff;
+  color: var(--amarillo);
+}
+.boton--Pastel:hover{
+  background-color: var(--amarillo);
+  border:solid 1px #fff;
+  color:rgb(255, 255, 255);
+}
+
+
+.Boton2{
+background-color: var(--VerdeClaro);
+  color: aliceblue;
+  border: solid 1px var(--VerdeClaro);
+  border-radius: 5px;
+  padding: 12px;
+  margin: 0 auto;
+  display: inline;
+  text-decoration: none;
+  align-items: center;
+  gap: 10px;
+  justify-content: space-evenly;
+  font-size:16px;
+  font-weight: 300;
+  color: #fff;
+  cursor: pointer;
+
+}
+.Boton2:hover{
+  background-color: #fff;
+  color:var(--VerdeClaro);
+  border: solid 1px var(--VerdeClaro);
+
+}
+.boton--Verdeclaro{
+  border: solid 1px var(--VerdeClaro);
+  background-color: #fff;
+  color: var(--VerdeClaro);
+}
+.boton--Verdeclaro:hover{
+  background-color: var(--VerdeClaro);
+  border:solid 1px #fff;
+  color:rgb(255, 255, 255);
+}
+
+.Boton3{
+background-color: var(--azul);
+  color: aliceblue;
+  border: solid 1px var(--azul);
+  border-radius: 5px;
+  padding: 12px;
+  margin: 0 auto;
+  display: inline;
+  text-decoration: none;
+  align-items: center;
+  gap: 10px;
+  justify-content: space-evenly;
+  font-size:16px;
+  font-weight: 300;
+  color: #fff;
+  cursor: pointer;
+}
+.Boton3:hover{
+  background-color: #fff;
+  color:var(--azul);
+  border: solid 1px var(--azul);
+
+}
+.boton--Azul{
+  border: solid 1px var(--azul);
+  background-color: #fff;
+  color: var(--azul);
+}
+.boton--Azul:hover{
+  background-color: var(--azul);
+  border:solid 1px #fff;
+  color:rgb(255, 255, 255);
+}
